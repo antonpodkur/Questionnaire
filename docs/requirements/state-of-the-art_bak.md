@@ -91,10 +91,14 @@ https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%
 #### Профайлінг 
 https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD%D0%B3
 
-### 2.2 
+### 2.2
+https://stud.com.ua/64456/zhurnalistika/vidi_opituvannya
 
 ### 2.3
+http://studies.in.ua/ru/metodologiya-politicheskih-issledovaniy-shpargalki/3167-procedura-skladannya-anketi-vimogi-do-formulyuvannya-pitan-dlya-opituvannya.html
 
 ### 2.4
+https://texterra.ru/blog/oprosy-zachem-oni-nuzhny-i-kak-ikh-provodit.html
 
 ### 2.5
+https://mmr.ua/show/onlajn-doslidzhennja-realnij-instrument-roboti
