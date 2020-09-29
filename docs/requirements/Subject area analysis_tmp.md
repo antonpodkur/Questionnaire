@@ -78,13 +78,13 @@ Agile Model має два окремих гнучких підходу:
 
 #### 3.1.4 "Lean"
 Це не зовсім методологія розробки програмного забезпечення. Швидше, зібрані в підхід принципи, націлені на підвищення ефективності розробки продукту і поліпшення робочих процесів. Головне завдання цього підходу в тому, щоб зробити проект в три рази швидше, в три рази дешевше і в три рази чистіше, ніж можна було б. У Lean є сім принципів, які допомагають досягти мети: 
-• Eliminate waste; 
-• Amplify learning; 
-• Decide as late as possible; 
-• Deliver as fast as possible; 
-• Enpower the team; 
-• Build integrity in; 
-• See the whole.
+* Eliminate waste; 
+* Amplify learning; 
+* Decide as late as possible; 
+* Deliver as fast as possible; 
+* Enpower the team; 
+* Build integrity in; 
+* See the whole.
 
 
 ### 3.2 Існуючі сервіси
