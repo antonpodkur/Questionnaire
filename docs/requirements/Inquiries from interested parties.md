@@ -20,8 +20,7 @@
 
 ### Посилання
 
-*[Розділ містить повний список всіх документів, про які згадується.]*
-
+* [Аналіз предметної області](https://github.com/antonpodkur/Questionnaire/blob/dev/docs/requirements/Subject%20area%20analysis.md)
 
 ## Короткий зміст
 
