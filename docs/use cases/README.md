@@ -86,60 +86,7 @@
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/ZP53UiH15CJNqHtUzsKPBsEV8RQj_wnYhM9R9nXRLwY-KQh7dcchVjNThsl7cDesJ6khLUKw2zCUVk5KnmWZX20SS2AeJlQYUpf55CbfY-27vuzOpwbmmADErAN03Oje1aaU-651a9mR16g58miSwfaxqNKF0eA0Dc9rm1N1XH1eJRgiRnXpihsqi6X8zVpy55DohsswG_19WOiy3sm8fU_r3zOtDZRfcboVMv-DCDFVeMtJNi5XE38yXIt-XDOqpHSiweH7Zk7Zw57O1ICgdpgL4TohPyB215j8yEYZ0bjq4Q7eI3sFjIO__q_3UCw902nxgLw25rZrtr1aZvXbar8kbnoL6jUDJSfrxkBtcDQe-mS0)
-
-***ІD:*** UC_3.1
-
-***НАЗВА:*** Переглянути непройдені опитування
-
-***УЧАСНИКИ:*** Респондент, Система
-
-***ПЕРЕДУМОВИ:*** Респондент зареєстрований в системі
-
-***РЕЗУЛЬТАТ:*** Список непройдених опитувань
-
-***ВИКЛЮЧНІ СИТУАЦІЇ:***
-* **EX.001.001.** Респондент не зареєстрований в системі
-
-***ОСНОВНИЙ СЦЕНАРІЙ:***
-
-![uml](http://www.plantuml.com/plantuml/png/ZL13OWH155r7TsYiesNiCyIsrREAjOfjdM1iz1NUlr5ULUmfVElzsdcdTyxnJ4uKvAfhy2pY0M5PWuiCqWWXZBIiBzBtSdJ6krfku1O-MKUCEGbA9mPPciak4h9XjDCTXYkhjCHVofqPoisCTTb003waQTplBAfuBpirxGmQSwF38uvX3mtryhpxAlkg3TmWWmYIY260p6TVKqjHIKcf-k_smQa1NVCLuwEQbrE7aO9lyICS0-Vm8IYhd2sYyUXbA7WP90oalyAXQ-iR8Ddv0EPTodR5qpDCLxUMWtic2tAV0000)
-
-***ІD:*** UC_3.2
-
-***НАЗВА:*** Переглянути пройдені опитування
-
-***УЧАСНИКИ:*** Респондент, Система
-
-***ПЕРЕДУМОВИ:*** Респондент зареєстрований в системі
-
-***РЕЗУЛЬТАТ:*** Список пройдених опитувань
-
-***ВИКЛЮЧНІ СИТУАЦІЇ:***
-* **EX.002.001.** Респондент не зареєстрований в системі
-
-***ОСНОВНИЙ СЦЕНАРІЙ:***
-
-![uml](http://www.plantuml.com/plantuml/png/ZL13OaH145r7T_XOXxlOPuXjgsSLQnNREi4OtrTuTQDKT-mqodfLCoTwPaLeOZmlMrwDpmBkaQHL1F3X8O4aF5fRK3vrLCQRMgRX1X5QGuPpR9QEDMOU9mUmQLrhmnsji6OzbphLb2j3QxIE62BmsBZNKL3-Ld9oIWneioD3mq8p1mTx-BpvAdghD5p3HmeECeZ1_-XhR2ueAYhXN_nc7vZiLpLVy3t8MMaDIRY8BBo7ek4C4SHfXMTBAIng4HAQ3rj3y1uAcpU_WA7jTq3UfF-kTcgQq-MjuQ534tdPZm00)
-
-***ІD:*** UC_4
-
-***НАЗВА:*** Замовлення опитування
-
-***УЧАСНИКИ:*** Замовник, Система
-
-***ПЕРЕДУМОВИ:*** Замовник зареєстрований в системі
-
-***РЕЗУЛЬТАТ:*** Нове опитування
-
-***ВИКЛЮЧНІ СИТУАЦІЇ:***
-* **EX.001.001.** Замовник не зареєстрований в системі
-
-***ОСНОВНИЙ СЦЕНАРІЙ:***
-
-![uml](http://www.plantuml.com/plantuml/png/bLB5LGL143nZEVHxdB4ZxZ7WxcxxJxXSSNU8uBjR2jKf40arixWpFjDMLRjr2qxVlEEPcYp8DLtObd0A7rB8880qOaWikU-cMU_NQuNW6ZxTG4pNaU3fIBYb6Pf5GZUb0_Sq1f3HDRhGJQo9Hztaiu-kQTtjgdpDE3tZ3CdysCYe8uN3mtrihxQg_Xh15JA888cOIVlUrjnQN5fQPkRh-z3qeCtvJEtUG2MIC0dwbjunkTKJX13KDMABk5pyy25gX20NtR8qKZpIBQcxekilvC8k4w7titJ9vyVAtsLbTMFCkaRTOUtNSfN_qVl0aiWoqeV0xvf_KaJU5Rk1NzSOxaVo0oZH4qCsyB1shhk8wYQjlByZ21-z41M-KGhE47KDsuIfoh_yQpEpT3EzZf_HCrMG-mW0)
-
-
+![uml](http://www.plantuml.com/plantuml/png/ZL43ReL148wJwWwJDAxZscUeRUj_KQsejdM2fz-ymhStwkpMxcBigPdJUcQrsCHuJgQyn6S1zp34AYA42A33G23M5fHE7UNnnfOHxjX-XVycGhQtnPhO9bX8a8p1aMnuI2108FRWvnDJ2UZYb3LFSXi-mPU9-EimLRWGVlbRbiafRO1cHuQ6DSeT7EpXywQhwAqYN2DaHmysKWW_wXgRkugBImhvlya79ljLp8zzoBGVkc0oKkGwKYyjb7_mkK52hB79AbocZebHeBnSiKvjE1Id72pYm0caO4jJGkf9YF294gSTvM_3Vv31sCw0ZyJ2-ro4CoJbRDWfhP9zZVIkk3VgltkTccPtUMjuFB69dCn7)
 
 ***ІD:*** UC_5.1
 
@@ -208,3 +155,69 @@
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
 ![uml](http://www.plantuml.com/plantuml/png/dL8rGaGn5Ept52ibNk9-1jobmQt2eSJTxGJhzlKAaninFu5rZylCl6IIdgtjcStjdPLbbylDj8Thc0X05u_Y10beUrnMIG9JipOtFX1mCE8O6aVtRcYaMh2XYLFt69uGKY8JxIbM5VGVRePWYID227CZhlJ-rFRmut2v5OM1m5wk-XC22B6QH0GG4wUC8E5K58ymPHJ4tJ8Y8uXJ1IVXYeA9zY9svCQvvMgG0aVo3eNKwjDuRbfkwcl46Kxy884HHDsaMmZct3Hjs-hQze9xUM5ns-rRN9nXIkrqp7QvyKvo33eIZc5PMuF3ZStDBRAcrXTMvwLWpJRAuviEYLQUGbEcfevDTqF5tCkK_lw_iZXFSIjzso2YyXd3qlKKk_mNNbjN85SFRU2l_mK0)
+
+***ІD:*** UC_7
+
+***НАЗВА:*** Створити діаграму
+
+***УЧАСНИКИ:*** Аналітик, Система
+
+***ПЕРЕДУМОВИ:*** Опитування, на основі якого буде будуватись діаграма, існує
+
+***РЕЗУЛЬТАТ:*** Створення діаграми
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Опитування, на основі якого буде будуватись звіт, не існує
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/dL95MiKm65nZTy1TbxYV0NTtAokShd5tkC7pUdk5oOsOfX_kL2CZ-ITfM5865fNbcUcqvBJaT5x1TnNxS1229Kx5DdIOgy6uVqd6IxSg7JS8-IYn1PEjutJ-7BZmO0erlGiFd8p05Pk449QEc3YbTfG38TX2xQb-CdtmHOY9mqPezOt76R4HlWwdGqW8bJuIIrtAET8BMhhqfOzG0pW9Ux2hNxHcvvIHzCM9iN4bFMjqT83NorpDO5qwhYcHW0NTN_JRkTRsllBoYbA-B-CZiyDIy-VWMCKXXyBGMJbp-dIjJ8VaFTRsd5eyc7cN6_J_nWOJBWV8O7Ggp234T_BLlwddPMl5BeNVRsnwFerUofK2NZ5XSa6dnVv8A9qSfxJWrGwzFcfpyvn8IsvWoZoaZm00)
+
+***ІD:*** UC_8.1
+
+***НАЗВА:*** Надання прав аналітика
+
+***УЧАСНИКИ:*** Менеджер, Система
+
+***ПЕРЕДУМОВИ:*** Користувач зареєстрований
+
+***РЕЗУЛЬТАТ:*** Користувач отримав права аналітика
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Користувач  не зареєстрований
+* **EX.001.002.** Користувач вже має права аналітика
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/lLD3OWHH45r7TnYimrtiCyIsrLd5jkta1cFFdolKlr5ULp0sQjY5Xu-69MLWKLcUcIxAByhN87w-L-cLhEJ5nq8siihDLSvpy8J_iKf3RsIGs-IGM-J2lriDVhmao4SkkQFfeak0UEGzUUMzt9BRSbFka8aCv4NcGaCMb0nabfjaGDjEJtKosCza3SNpgKYSy90ZEJIKePLR0d0qZ6qWjxnNA-ge7zQ_ObygBXgiu3Mi1j5Umw8579kODZ4n5FXOXo2NgaAWnkC_NkG19an-ahZRmZGFgaovHm9b1w1EOO84h_Wz6TcfcKH4EZA4ad7CpYaZciM9iN55enyT7K3uQpM3THhe4L3YPbyYkDRQtbTMLbw2Zpy_CZlCcFvCCjjp3HeZb7DJZqProxiaUCDoxgiYZgzuf-BljDt6FciQCltvvjNmo9t89sO7LgETas3xIyhSF3StG3Wk_pS0)
+
+***ІD:*** UC_8.2
+
+***НАЗВА:*** Позбавлення прав аналітика
+
+***УЧАСНИКИ:*** Менеджер, Система
+
+***ПЕРЕДУМОВИ:*** Користувач зареєстрований, має права аналітика
+
+***РЕЗУЛЬТАТ:*** Користувач позбавлений прав аналітика
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.002.001.** Користувач  не зареєстрований
+* **EX.002.002.** Користувач не має права аналітика
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/lLD3OWHH45r7TnYimrtiCyIsrLd5jkta16FF_Bv2rOrIluAnKSCkF7mqB2a3Yyhop7HHVb6-XkBdUnLUmGO--bZ13ZRSNEKy1q_u7wiqy0P6t0OdRe6R_jrgwCS70bHmuuwc2ou9n8ltuCDxtC9jtCGTC8CHV9IvwAbE1kePRC7Z6b1n4uoSy88pERGF-ky04uyxPUC_caRYqyU3zp8ln_tG_aNwajZKO2DkuseGzJKPjXBF9asRcPnKgAn5W5ig4LJZyHy_U40JPZz9_9sGD0zI9kuHfbLQm5Eo088N-HvCxDO28Y8T6CF8PCpEAIEQnOcnSKMZ7nqTeF3NQWRhDAH7a18F-nB1jTRslhAoYfAoid9_VcHsc37zcMIsw9feJBZvqzIZaMvvZmHlLyvzLSJn5UzKF91y4vKtsQl_x4OuRnho3-O_-_5tCjfn2Lw59MLkdfiRI3zV-sy0)
+
+***ІD:*** UC_9
+
+***НАЗВА:*** Надсилання запрошень для участі в опитуванні
+
+***УЧАСНИКИ:*** Менеджер, Система
+
+***ПЕРЕДУМОВИ:*** Існування опитування, яке будуть проходити
+
+***РЕЗУЛЬТАТ:*** Отримання запрошення для участі в опитуванні
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/bLB5GGH147nZENG0980J1wult5wuyyBToU3SRpQ5weoeFdVPSUaksHdTsfxTtDvPMUxfxEaKVjb-3vy88yqMGWHXFThBxjkNYIWk-mLVyEa9OdgC16UFWWH37Jmaz5J6yGsFXoTwYW1yF4dhpUH0EmbU6ERf4HmlnEpYfF0ylyUrC7CCVYvzcS0WdC1Lm-PHItJ-6InpX962Rw-CrRq-Ktw2MMDCORo8pvpi7H96ql6Copo8NZ8YK0HfRcPDyPJMlWErsC3NAth3awmZUWx7pR0WMfcEd5isn09z14ZgZJwMvhf2E6jpvUz8wMbjjqvpOZsBjdtogEUPxPO-mhNrpENHnTK5Fjz_)
+
