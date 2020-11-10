@@ -28,9 +28,8 @@
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
 
-EX.001.001. Респондент вже зареєстрований у системі.
-
-EX.001.002. Респондент ввів неіснуючу електронну пошту.
+* **EX.001.001.** Респондент вже зареєстрований у системі.
+* **EX.001.002**. Респондент ввів неіснуючу електронну пошту.
 ![uml](http://www.plantuml.com/plantuml/png/VLFLeHin4FnN5Hjc_0jpMWWpCrs-WcOxp8mTA6QwSmkp7MLMUan6BS-CzdRVIyxSJUxVkEuUuWzQciC86L8qqKAg-OSknDrM_8JNFBfCwFFqGPZZXUSK6KlwMf35eS47pMbUdpAdh9_qzU9jxY7-MXshMnZ2FtHRyPi9MPoa1JRJ8ZAwXlDraJ2cpcy3cKFVicDFBT3jjGBFIVDGs8hFyC5Pf-DL1D-Y-KzB-ebvgNwI41_ewvKOs1ZwqxNcz9naWHTh7KRwbFuEwfnTGskjq1gkqDThvSAw6sUkNASZHoej0ove6dAhDF01wwTLsuoypQGQTKlaz7QG898Yh3v311GANWZgbXUvS6f9UFJnkCsvERMrjZJh-ebmN-k7AJqYqzY1nstkvgtaWjozSkbo8aiE7jp3rrR13n9kKuQkANxyfXmul7xZnatsdMfiNX-tWbnoJ1t4hM2LmH5qADvCee54Ib66ZewPj_mvxfHTX5RfBonmeR-iZbE7GJj6ei05Z89Xb0rG3cdS6PFNyxu_qT6oH8UwC3oXdOd1NRzrsxdT5swUjmT2_WC0)
 
 ***ІD:*** UC_1.2
@@ -44,7 +43,7 @@ EX.001.002. Респондент ввів неіснуючу електронн�
 ***РЕЗУЛЬТАТ:*** Змінено обліковий запис.
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
-EX.002.001. Нові дані, введені респондентом, вже є в системі.
+* **EX.002.001.** Нові дані, введені респондентом, вже є в системі.
 ![uml](http://www.plantuml.com/plantuml/png/ZP75LMrH44Jd9ufUxuy_DiET571tjyi8bp7kJWJFtLAepeXgtE6wx2vPfsRUwvtp5YOdt19k4TLrv9535X54aTMD9VVmtvNX2W7TG890Ya-7GYOWVCuIpoEbc-8p0Gu64DPDX1vvnzz1fFMOQ8uV4qWAucJofkKhf-sTFP6D8eF0qgCLPSn4jv3JDMHC7IUy7zCl8Npz89ipvesm7flqrutAtkQaoOy9o_zO_GH1UgrHE6mi5PxJVjtnveaEwR6kwOwfXaXRN8jvB1RG7ihTrBGtA7EZmoEU_6jggkLM9hYaTmnf9AnynvGqjXGK5PNmB2vmPSzf621iYT-aANTSqUaPvse6fmPisUKU)
 
 ***ІD:*** UC_1.3
@@ -62,6 +61,21 @@ EX.002.001. Нові дані, введені респондентом, вже �
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL6rMGPH4CotYlqkfW6SKj08jmYN3DS8hU3ShONPZXZSuO-UZRtPeSMbaOMbvUafMSKTOjj2YmOr8iIeRNjLdjwb1zVmR1iP0GLtvqgCfzpNXBSeR4STd28ZqKD97B4gVFDHsYKAxWA-vegKWFPHoEcbv_tZZk0O5RpLPnz4JmwsYyOsKNsHPYucEz8lsWr2D2hlyhP3Wry-rOFJ9qhq6DJsbOY0IanNFWfnMtSfNyj7dvR7Y143ActoCdcD80Y-fkhjiAdRBvfFVVrOoDlFcOLYVpRQAy9vpSw934tCZ3yELHy0)
 
+***ІD:*** UC_1.4
+
+***НАЗВА:*** Авторизація.
+
+***УЧАСНИКИ:*** Користувач, Система.
+
+***ПЕРЕДУМОВИ:*** Користувач зареєстрований в системі.
+
+***РЕЗУЛЬТАТ:*** Авторизація користувача.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.004.001** Користувач ввів дані, яких немає у системі.
+* **EX.004.002** Користувач не зареєстрований.
+
+![uml](http://www.plantuml.com/plantuml/png/ZL53UdLH49oVLJoCVoQJsDb2R5itezYshGKyMrketb6gOoSNXzM5h_E7h8P1QxYdsupY64cPH5YcP5fcu8LR5aRDtRt9n1ctqtg9A5UxDYJWjY7AAOaKeZ9ZS-06Njb7H76EB19UtPCXW3ZSeoGvW5jvaU2X6q6P8P7CgYpYPD1RXUizIsT9fcBpiYy7MPyO_A6r2tBvYV8YG0e_mf-Rl508jrxAJig64aPLc4THuX8yLWEhDlWr2ildianldzLY6-neQxTipjBI0ZwPDfmYYI1Y25CsMTrhAod__VTlElz_lr_k_l-cwgP6ly-7aCpSgxwB2tUMCUn9Nxyn-IszpTeusoq0)
 ***ІD:*** UC_2
 
 ***НАЗВА:*** Проходження опитування
