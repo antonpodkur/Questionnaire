@@ -76,6 +76,7 @@
 * **EX.004.002** Користувач не зареєстрований.
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL53UdLH49oVLJoCVoQJsDb2R5itezYshGKyMrketb6gOoSNXzM5h_E7h8P1QxYdsupY64cPH5YcP5fcu8LR5aRDtRt9n1ctqtg9A5UxDYJWjY7AAOaKeZ9ZS-06Njb7H76EB19UtPCXW3ZSeoGvW5jvaU2X6q6P8P7CgYpYPD1RXUizIsT9fcBpiYy7MPyO_A6r2tBvYV8YG0e_mf-Rl508jrxAJig64aPLc4THuX8yLWEhDlWr2ildianldzLY6-neQxTipjBI0ZwPDfmYYI1Y25CsMTrhAod__VTlElz_lr_k_l-cwgP6ly-7aCpSgxwB2tUMCUn9Nxyn-IszpTeusoq0)
+
 ***ІD:*** UC_2
 
 ***НАЗВА:*** Проходження опитування
