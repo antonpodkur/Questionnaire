@@ -121,3 +121,33 @@ EX.001.001. В респондента нема доступу до опитув�
 EX.002.001. Анкета не існує
 
 ![uml](http://www.plantuml.com/plantuml/png/dLErUOCn5EmzXQ4ETc6U8SpGXAaAHtsOEHEOcLOuRPIJvEWpaup_EtZqQN3_O77lu71pm-5myXpZ1cdua9HFyX8n98uPDaSJxLEt4v_mAOwyG8B_7fn8K9f15WafdDFAY96meipsvCn_5PsHC5Bm7UURtSadXAWyPzA0jjF4Z3mdG2DQMZgYJeHOu3LTOavTRyW9dytdK_6UMltKxk07OOGe3ag1WA7cfP6YGbjEdlmipzG4b4wN5f6YN7E8rjr1iVyTetvMS6vwo2kmnzAsjWzMdHkhQmTEpzhQ8ez5UfVwdVX01X4azUmp1T3OH6jxUoS_7QqslhgreWsRxXu9P1YWY1CGI9XPv9LUp_BojbEsxTg5-KbN6mYQmGNuDoJF_ssHoTKj2irhtvFj7KDo379Il5f_)
+
+***ІD:*** UC_5.3
+
+***НАЗВА:*** Видалити анкету
+
+***УЧАСНИКИ:*** Аналітик, Система
+
+***ПЕРЕДУМОВИ:*** Анкета існує
+
+***РЕЗУЛЬТАТ:*** Видалення анкети
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+EX.003.001. Анкета не існує
+
+![uml](http://www.plantuml.com/plantuml/png/fLCrLWHH4Cpt5FqUCHxXVWRS9S4jmZt2tU44wsvNg7yZwk-Euz2hqzrb8ysBIyCBIylJKpwVi5PnWYm2IAihjOq4Kgji5wkmQ1tL2XuHq3jg2od-kn3-P9537Ycr8xsQY9seNkclCyXVzJexKMGGM7MIdQahH8ZSf6YeG5TOpAbD3h85IciTSK641e_9af22tuWWOEa5TB_kkppV9pWZ8AB1NE6QGqBjV199M4w5Qs926bUm5LCx7mL3_CVklVndx0RfO5FxTnciizPcPfV6PMfyOabA9YQ6MTQaVgHHyC34CPqH8UHSeuwkiegAQdugowp--CnOWV0VwP4tr0BgI1qWAWYfg-Afjz7in0Lv_aG83Z7J9YA88SgrhBxoH5cNnsWwyl_i-ZzxwRN3Rub_5DswTzInzy9y_w3DpXMNVCqytNmstm00)
+
+***ІD:*** UC_6
+
+***НАЗВА:*** Створити звіт
+
+***УЧАСНИКИ:*** Аналітик, Система
+
+***ПЕРЕДУМОВИ:*** Опитування, на основі якого буде будуватись звіт, існує
+
+***РЕЗУЛЬТАТ:*** Створення звіту
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+EX.001.001. Опитування, на основі якого буде будуватись звіт, не існує
+
+![uml](http://www.plantuml.com/plantuml/png/dL8rGaGn5Ept52ibNk9-1jobmQt2eSJTxGJhzlKAaninFu5rZylCl6IIdgtjcStjdPLbbylDj8Thc0X05u_Y10beUrnMIG9JipOtFX1mCE8O6aVtRcYaMh2XYLFt69uGKY8JxIbM5VGVRePWYID227CZhlJ-rFRmut2v5OM1m5wk-XC22B6QH0GG4wUC8E5K58ymPHJ4tJ8Y8uXJ1IVXYeA9zY9svCQvvMgG0aVo3eNKwjDuRbfkwcl46Kxy884HHDsaMmZct3Hjs-hQze9xUM5ns-rRN9nXIkrqp7QvyKvo33eIZc5PMuF3ZStDBRAcrXTMvwLWpJRAuviEYLQUGbEcfevDTqF5tCkK_lw_iZXFSIjzso2YyXd3qlKKk_mNNbjN85SFRU2l_mK0)
