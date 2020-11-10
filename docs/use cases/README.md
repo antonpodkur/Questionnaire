@@ -27,7 +27,6 @@
 ***РЕЗУЛЬТАТ:*** Новий обліковий запис.
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
-
 EX.001.001. Респондент вже зареєстрований у системі.
 
 EX.001.002. Респондент ввів неіснуючу електронну пошту.
@@ -62,6 +61,24 @@ EX.002.001. Нові дані, введені респондентом, вже �
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL6rMGPH4CotYlqkfW6SKj08jmYN3DS8hU3ShONPZXZSuO-UZRtPeSMbaOMbvUafMSKTOjj2YmOr8iIeRNjLdjwb1zVmR1iP0GLtvqgCfzpNXBSeR4STd28ZqKD97B4gVFDHsYKAxWA-vegKWFPHoEcbv_tZZk0O5RpLPnz4JmwsYyOsKNsHPYucEz8lsWr2D2hlyhP3Wry-rOFJ9qhq6DJsbOY0IanNFWfnMtSfNyj7dvR7Y143ActoCdcD80Y-fkhjiAdRBvfFVVrOoDlFcOLYVpRQAy9vpSw934tCZ3yELHy0)
 
+***ІD:*** UC_1.4
+
+***НАЗВА:*** Авторизація.
+
+***УЧАСНИКИ:*** Користувач, Система.
+
+***ПЕРЕДУМОВИ:*** Користувач зареєстрований в системі.
+
+***РЕЗУЛЬТАТ:*** Авторизація користувача.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+EX.004.001. Користувач ввів дані, яких немає у системі.
+
+EX.004.002. Користувач не зареєстрований.
+
+![uml](http://www.plantuml.com/plantuml/png/ZL53UdLH49oVLJoCVoQJsDb2R5itezYshGKyMrketb6gOoSNXzM5h_E7h8P1QxYdsupY64cPH5YcP5fcu8LR5aRDtRt9n1ctqtg9A5UxDYJWjY7AAOaKeZ9ZS-06Njb7H76EB19UtPCXW3ZSeoGvW5jvaU2X6q6P8P7CgYpYPD1RXUizIsT9fcBpiYy7MPyO_A6r2tBvYV8YG0e_mf-Rl508jrxAJig64aPLc4THuX8yLWEhDlWr2ildianldzLY6-neQxTipjBI0ZwPDfmYYI1Y25CsMTrhAod__VTlElz_lr_k_l-cwgP6ly-7aCpSgxwB2tUMCUn9Nxyn-IszpTeusoq0)
+
+
 ***ІD:*** UC_2
 
 ***НАЗВА:*** Проходження опитування
@@ -76,18 +93,3 @@ EX.002.001. Нові дані, введені респондентом, вже �
 EX.001.001. В респондента нема доступу до опитування
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL6rGGL148sn7av2FCIz1oBSNIFS8bmJl8BlRYsywOYtW-nTnkhe6-lTt1hVsDfUNgghDjlXsiK7KdA42iee8OaKIdAygpfTwc7PTWVlj3_aFQD74bavbWi76KGTWq6aB0g8eaISwmO79T99UQ9SfTGM7HHD6DuaqWfMHh73nbXPtPfsDkPdvxOSVsPcdClgEYUw7RpG8KsyBE8eXtL3mwCjBQrDl5O-lJAbcE4gJDXm3MLKb3n1_BU0ZjycVL9p9CT8eOZeRX396GYgJ2TYfYPvGW9HUN0G9vdK_YebJu5IBVNVQQokqTtiNfQrlVm5)
-
-***ІD:*** UC_5.1
-
-***НАЗВА:*** Створити анкету
-
-***УЧАСНИКИ:*** Аналітик, Система
-
-***ПЕРЕДУМОВИ:*** Аналітик має бути зареєстрований і мати права аналітика
-
-***РЕЗУЛЬТАТ:*** Створена анкета
-
-***ВИКЛЮЧНІ СИТУАЦІЇ:***
-Немає
-
-![uml](http://www.plantuml.com/plantuml/png/ZLB5LSLG4DsdYjS6JXsuhd1RuR36RODs44zEj8Kx7J4ptprkLyyRQ_ReUFNm-6Hdsx8CRsTuH0uRARtJ3M8aP_fPDWKstyODlc0BXgwHyDEhGSBK0YKIkZNpAfGW4CZYH5tyJ-3y9K06-wnTx9dUuJFpYarTbLDWGLVy8rV99XoHWSy17rWbDfhNDx2RVhPydnZLPtI3F_xfef1C0ckpeDi1bUHRkyC7RBZ2qrWXtTPS2lx092vtYwHMiqrzGFH-uWQ-1YwGyUcnqFq0VTWjhWRMPdJFWTfxLQtb8D2byM3tAemQfBtz6iYQtTpTuDdx1m00)
