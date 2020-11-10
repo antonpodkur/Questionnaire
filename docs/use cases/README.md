@@ -75,5 +75,4 @@ EX.002.001. Нові дані, введені респондентом, вже �
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
 EX.001.001. В респондента нема доступу до опитування
 
-![uml]
-(http://www.plantuml.com/plantuml/png/ZL6rGGL148sn7av2FCIz1oBSNIFS8bmJl8BlRYsywOYtW-nTnkhe6-lTt1hVsDfUNgghDjlXsiK7KdA42iee8OaKIdAygpfTwc7PTWVlj3_aFQD74bavbWi76KGTWq6aB0g8eaISwmO79T99UQ9SfTGM7HHD6DuaqWfMHh73nbXPtPfsDkPdvxOSVsPcdClgEYUw7RpG8KsyBE8eXtL3mwCjBQrDl5O-lJAbcE4gJDXm3MLKb3n1_BU0ZjycVL9p9CT8eOZeRX396GYgJ2TYfYPvGW9HUN0G9vdK_YebJu5IBVNVQQokqTtiNfQrlVm5)
+![uml](http://www.plantuml.com/plantuml/png/ZL6rGGL148sn7av2FCIz1oBSNIFS8bmJl8BlRYsywOYtW-nTnkhe6-lTt1hVsDfUNgghDjlXsiK7KdA42iee8OaKIdAygpfTwc7PTWVlj3_aFQD74bavbWi76KGTWq6aB0g8eaISwmO79T99UQ9SfTGM7HHD6DuaqWfMHh73nbXPtPfsDkPdvxOSVsPcdClgEYUw7RpG8KsyBE8eXtL3mwCjBQrDl5O-lJAbcE4gJDXm3MLKb3n1_BU0ZjycVL9p9CT8eOZeRX396GYgJ2TYfYPvGW9HUN0G9vdK_YebJu5IBVNVQQokqTtiNfQrlVm5)
