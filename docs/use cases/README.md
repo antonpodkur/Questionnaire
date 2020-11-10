@@ -88,6 +88,59 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL43ReL148wJwWwJDAxZscUeRUj_KQsejdM2fz-ymhStwkpMxcBigPdJUcQrsCHuJgQyn6S1zp34AYA42A33G23M5fHE7UNnnfOHxjX-XVycGhQtnPhO9bX8a8p1aMnuI2108FRWvnDJ2UZYb3LFSXi-mPU9-EimLRWGVlbRbiafRO1cHuQ6DSeT7EpXywQhwAqYN2DaHmysKWW_wXgRkugBImhvlya79ljLp8zzoBGVkc0oKkGwKYyjb7_mkK52hB79AbocZebHeBnSiKvjE1Id72pYm0caO4jJGkf9YF294gSTvM_3Vv31sCw0ZyJ2-ro4CoJbRDWfhP9zZVIkk3VgltkTccPtUMjuFB69dCn7)
 
+***ІD:*** UC_3.1
+
+***НАЗВА:*** Переглянути непройдені опитування
+
+***УЧАСНИКИ:*** Респондент, Система
+
+***ПЕРЕДУМОВИ:*** Респондент зареєстрований в системі
+
+***РЕЗУЛЬТАТ:*** Список непройдених опитувань
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Респондент не зареєстрований в системі
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/ZL13OWHH45r7TsYiesNiCyIsrREAjOfjdM3iwUuhlBfHNl_Oyr7MgzfvgtVEyarE5EHwL-DPn0EYiWON3cn448KjwulAfuxAU5VBDTmY8Ej8C2T5wKGZivdi8YKRMZlTKRYoIalofToPfjm9MPSDX120JUD-Pr75UzcfQMjGcniT7h4qSsYeb-VTLzbNhU669M988y42pcTVKqjtIKbf4V-xVN1gGDLynVZepSkfeyWWiFWHZePp112MLSuMKtYyPIXu3b8QxAzmwDhw1aXsFe1vbx9TyVGCqxrRoy5zamMvJm00)
+
+***ІD:*** UC_3.2
+
+***НАЗВА:*** Переглянути пройдені опитування
+
+***УЧАСНИКИ:*** Респондент, Система
+
+***ПЕРЕДУМОВИ:*** Респондент зареєстрований в системі
+
+***РЕЗУЛЬТАТ:*** Список пройдених опитувань
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Респондент не зареєстрований в системі
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/ZL13OaH145r7T_XOHylOPuXjgsSLQnNREi4OtrTuTQDKT-nfbFMgTbxqpedGv4H1hhmQdqKy84bh2E33Gm99UBI-g7pgg8ntjLp3BIAqZWpds2oTQCmyJWvWquRMZdjQPSrwANMcALU6rca3CKJWiN6_iwZYlUJKj1ZKvaQ7HuHc3WtryddtLVPLQxY1ZnGSP123_zdNrD9TKb9QnF_TFZWre6g-udkKiz8wad0HMVm8HSCv8eZJAi-MKbZK8YGq7xQ6u2CKDczz0qCx7u2yIzckTdg6q-MjvQ53amMvJm00)
+
+***ІD:*** UC_4
+
+***НАЗВА:*** Замовлення опитування
+
+***УЧАСНИКИ:*** Замовник, Система
+
+***ПЕРЕДУМОВИ:*** Замовник зареєстрований в системі
+
+***РЕЗУЛЬТАТ:*** Нове опитування
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Замовник не зареєстрований в системі
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/bLB5LGHH43nZEVHxdB4ZxZ7Wxcwp9rokk3jaiEuxaq9r2aH2ZU7w_V-kbggPXYLZOD48p4mNvTjTs5PmZY2oC1563acaL_ZkDGVzUgqIt2AeMqZg9j8ydGYt75qjf7LRkl18OnYcRX12c3Wc7dMRpq52SxhVK_qQSNRE6975YR5nGuf7HmVONcqrWtM26qQ88uEa7VQzhRMzhxoyefJpzNraTjY9wLDxj4jb9J4I3AwyOtAlPuWYeXkiBUvo2I68X2q4kUYEGoFB8s4PtHS6yid5N2P2j2zTnd-i_brMPhUDbclKFUP-JLVz7xsF718MFOC8_wxv9qNaNR8xX1Z9f0wP3qM9djbamqyRbxgFX6xJYiHxWWWIXOJmZL9mHgbhp0cOhVxBlpOtJvZT6_WP0pD5-Sy0)
+
+
+
 ***ІD:*** UC_5.1
 
 ***НАЗВА:*** Створити анкету
