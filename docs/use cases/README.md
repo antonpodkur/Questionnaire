@@ -84,9 +84,61 @@
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
 * **EX.001.001.** В респондента нема доступу до опитування
 
+
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL43ReL148wJwWwJDAxZscUeRUj_KQsejdM2fz-ymhStwkpMxcBigPdJUcQrsCHuJgQyn6S1zp34AYA42A33G23M5fHE7UNnnfOHxjX-XVycGhQtnPhO9bX8a8p1aMnuI2108FRWvnDJ2UZYb3LFSXi-mPU9-EimLRWGVlbRbiafRO1cHuQ6DSeT7EpXywQhwAqYN2DaHmysKWW_wXgRkugBImhvlya79ljLp8zzoBGVkc0oKkGwKYyjb7_mkK52hB79AbocZebHeBnSiKvjE1Id72pYm0caO4jJGkf9YF294gSTvM_3Vv31sCw0ZyJ2-ro4CoJbRDWfhP9zZVIkk3VgltkTccPtUMjuFB69dCn7)
+
+***ІD:*** UC_3.1
+
+***НАЗВА:*** Переглянути непройдені опитування
+
+***УЧАСНИКИ:*** Респондент, Система
+
+***ПЕРЕДУМОВИ:*** Респондент зареєстрований в системі
+
+***РЕЗУЛЬТАТ:*** Список непройдених опитувань
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Респондент не зареєстрований в системі
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/ZL13OWH155r7TsYiesNiCyIsrREAjOfjdM1iz1NUlr5ULUmfVElzsdcdTyxnJ4uKvAfhy2pY0M5PWuiCqWWXZBIiBzBtSdJ6krfku1O-MKUCEGbA9mPPciak4h9XjDCTXYkhjCHVofqPoisCTTb003waQTplBAfuBpirxGmQSwF38uvX3mtryhpxAlkg3TmWWmYIY260p6TVKqjHIKcf-k_smQa1NVCLuwEQbrE7aO9lyICS0-Vm8IYhd2sYyUXbA7WP90oalyAXQ-iR8Ddv0EPTodR5qpDCLxUMWtic2tAV0000)
+
+***ІD:*** UC_3.2
+
+***НАЗВА:*** Переглянути пройдені опитування
+
+***УЧАСНИКИ:*** Респондент, Система
+
+***ПЕРЕДУМОВИ:*** Респондент зареєстрований в системі
+
+***РЕЗУЛЬТАТ:*** Список пройдених опитувань
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.002.001.** Респондент не зареєстрований в системі
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/ZL13OaH145r7T_XOXxlOPuXjgsSLQnNREi4OtrTuTQDKT-mqodfLCoTwPaLeOZmlMrwDpmBkaQHL1F3X8O4aF5fRK3vrLCQRMgRX1X5QGuPpR9QEDMOU9mUmQLrhmnsji6OzbphLb2j3QxIE62BmsBZNKL3-Ld9oIWneioD3mq8p1mTx-BpvAdghD5p3HmeECeZ1_-XhR2ueAYhXN_nc7vZiLpLVy3t8MMaDIRY8BBo7ek4C4SHfXMTBAIng4HAQ3rj3y1uAcpU_WA7jTq3UfF-kTcgQq-MjuQ534tdPZm00)
+
+***ІD:*** UC_4
+
+***НАЗВА:*** Замовлення опитування
+
+***УЧАСНИКИ:*** Замовник, Система
+
+***ПЕРЕДУМОВИ:*** Замовник зареєстрований в системі
+
+***РЕЗУЛЬТАТ:*** Нове опитування
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Замовник не зареєстрований в системі
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/bLB5LGL143nZEVHxdB4ZxZ7WxcxxJxXSSNU8uBjR2jKf40arixWpFjDMLRjr2qxVlEEPcYp8DLtObd0A7rB8880qOaWikU-cMU_NQuNW6ZxTG4pNaU3fIBYb6Pf5GZUb0_Sq1f3HDRhGJQo9Hztaiu-kQTtjgdpDE3tZ3CdysCYe8uN3mtrihxQg_Xh15JA888cOIVlUrjnQN5fQPkRh-z3qeCtvJEtUG2MIC0dwbjunkTKJX13KDMABk5pyy25gX20NtR8qKZpIBQcxekilvC8k4w7titJ9vyVAtsLbTMFCkaRTOUtNSfN_qVl0aiWoqeV0xvf_KaJU5Rk1NzSOxaVo0oZH4qCsyB1shhk8wYQjlByZ21-z41M-KGhE47KDsuIfoh_yQpEpT3EzZf_HCrMG-mW0)
 
 ***ІD:*** UC_5.1
 
