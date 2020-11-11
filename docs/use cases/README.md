@@ -71,6 +71,23 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/ZL53OWHH45r7TnXiusGJErU8RQkpYctRki3OtNs5LpTALMrY31g5fry-PNHC6jCZmsd9ixY6HOk8q18jqmfyyD36R5goJgGb5-AE2ylIHeoVJXqmuN7mimaBDcAqud3X1JuwHrJcN4M2-GJ5Gn09U6O5vW8UmOR9LGz2jC9GjAhK2SQGhiwRIhPAvqgtJkTqKVIpoa8SyxE5029SttNqP8nq30mxXCF1wZoyOY5EkqN_TVB0n06UyY78kmpxcwS77GgAULga0u6CmT9IZ0TDBY-fB0J4EU-lCTBecD7Zc1pewpSSxjhQ2luKEd0B2o744H4xpQEEclhCxEny_kTald_BpHJUGyrAyq2OLfJtQppmC1b_-IZ7nkLUtZFQpMV-2W00)
 
+***ІD:*** UC_1.5
+
+***НАЗВА:*** Підтвердження облікового запису.
+
+***УЧАСНИКИ:*** Користувач, Система.
+
+***ПЕРЕДУМОВИ:*** Запит на підтвердження облікового запису.
+
+***РЕЗУЛЬТАТ:*** Підтверджений обліковий запис.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.005.001.** Помилка підтвердження облікового запису.
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/LL13OWL14DqFxZ1OnxPpXTZOn5h5jkta1DySNU7LZLBTSHjLzL0_DpymExymCQuhItY0Jsj8qpfjq2QY2DFkagx825sfn2iIjCPp6pxYI7FGaO6e0UShvSP02c430TqWJXk8olWaRT89xI8DLrSGCCGwdns4uS6ZKxXLkZ8vDJzYZ8-CpXjsQsi3jqe3JuoI5BKHXTyzQRIqv-Rdb_0io1LStpz1aO2By9AazmysBe6l3FY8mE6lB9-YI2CZMI8G-Gmjz4rDYxr-P7AOZVW0)
+
 ***ІD:*** UC_2
 
 ***НАЗВА:*** Проходження опитування
