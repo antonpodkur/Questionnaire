@@ -86,7 +86,7 @@
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/LL13OWL14DqFxZ1OnxPpXTZOn5h5jkta1DySNU7LZLBTSHjLzL0_DpymExymCQuhItY0Jsj8qpfjq2QY2DFkagx825sfn2iIjCPp6pxYI7FGaO6e0UShvSP02c430TqWJXk8olWaRT89xI8DLrSGCCGwdns4uS6ZKxXLkZ8vDJzYZ8-CpXjsQsi3jqe3JuoI5BKHXTyzQRIqv-Rdb_0io1LStpz1aO2By9AazmysBe6l3FY8mE6lB9-YI2CZMI8G-Gmjz4rDYxr-P7AOZVW0)
+![uml](http://www.plantuml.com/plantuml/png/LL33OGLH5DqFUXYiOzjf8RQjoIgsRISLV1lJmhaTvRuN_cSUrIuuVVFEujIahYpZ4MbQHvGsQ9Esu8UNzfPrHRxGbNAy8KJht7UGHX1HVdHim6yWyVtbra04NWCktI98c_3Bzs7QebFQGnH9NO7B51kyJi2B559qXcI5hWZoZoyKX924TrdoPU049TArmUG-9FWgpYi_GyKaBIFpVyQQdd66ZFcnaL77i9kRwxYK6tZcjs4Xb7-aEwUDfjRitDmYxddPmk3ChD1GEpGzo4by0W00)
 
 ***ІD:*** UC_2
 
