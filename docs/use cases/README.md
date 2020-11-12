@@ -225,7 +225,7 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/dL8rGaGn5Ept52ibNk9-1jobmQt2eSJTxGJhzlKAaninFu5rZylCl6IIdgtjcStjdPLbbylDj8Thc0X05u_Y10beUrnMIG9JipOtFX1mCE8O6aVtRcYaMh2XYLFt69uGKY8JxIbM5VGVRePWYID227CZhlJ-rFRmut2v5OM1m5wk-XC22B6QH0GG4wUC8E5K58ymPHJ4tJ8Y8uXJ1IVXYeA9zY9svCQvvMgG0aVo3eNKwjDuRbfkwcl46Kxy884HHDsaMmZct3Hjs-hQze9xUM5ns-rRN9nXIkrqp7QvyKvo33eIZc5PMuF3ZStDBRAcrXTMvwLWpJRAuviEYLQUGbEcfevDTqF5tCkK_lw_iZXFSIjzso2YyXd3qlKKk_mNNbjN85SFRU2l_mK0)
 
-***ІD:*** UC_7
+***ІD:*** UC_7.1
 
 ***НАЗВА:*** Створити діаграму
 
@@ -236,10 +236,26 @@
 ***РЕЗУЛЬТАТ:*** Створення діаграми
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
-* **EX.001.001.** Опитування, на основі якого буде будуватись звіт, не існує
+* **EX.001.001.** Опитування, на основі якого буде будуватись діаграма, не існує
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 ![uml](http://www.plantuml.com/plantuml/png/dL95MiKm65nZTy1TbxYV0NTtAokShd5tkC7pUdk5oOsOfX_kL2CZ-ITfM5865fNbcUcqvBJaT5x1TnNxS1229Kx5DdIOgy6uVqd6IxSg7JS8-IYn1PEjutJ-7BZmO0erlGiFd8p05Pk449QEc3YbTfG38TX2xQb-CdtmHOY9mqPezOt76R4HlWwdGqW8bJuIIrtAET8BMhhqfOzG0pW9Ux2hNxHcvvIHzCM9iN4bFMjqT83NorpDO5qwhYcHW0NTN_JRkTRsllBoYbA-B-CZiyDIy-VWMCKXXyBGMJbp-dIjJ8VaFTRsd5eyc7cN6_J_nWOJBWV8O7Ggp234T_BLlwddPMl5BeNVRsnwFerUofK2NZ5XSa6dnVv8A9qSfxJWrGwzFcfpyvn8IsvWoZoaZm00)
+
+***ІD:*** UC_7.2
+
+***НАЗВА:*** Створити таблицю
+
+***УЧАСНИКИ:*** Аналітик, Система
+
+***ПЕРЕДУМОВИ:*** Опитування, на основі якого буде будуватись таблиця, існує
+
+***РЕЗУЛЬТАТ:*** Створення діаграми
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***
+* **EX.001.001.** Опитування, на основі якого буде будуватись таблиця, не існує
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](https://www.plantuml.com/plantuml/png/dLB1IiD04BtdAmQyA9HIhqQa5_z1496AhGhQIest7Ae1JzAAIBpeeN-G5bibRT9VUFj7ljcKRGE2ui9kiZDlvisysVfDqEW6jrUNdYTSzWZnX0m9PYOsz_X26bgpBejsjnt1EnB5c3ka_7iHVZBaM20raHnYIESOkUaHGfZmI332ZDS7qp_obtn3pK3V17CauNh-L-B7t9cDd9g871RAd2Ocb_BWKomdEKnKm1ammDntgTgTe2dTYxFpG3PQhGQNS-sUx0dUc62gTMcv9TV-mN6jjbtbTkPc-zGc_4qjrlzCouY5zGfrVgXIyC7OGT5LeTLawIcf5VzFB0uafu4152oYN5QwSkf7_m-Tk56QliwWDCXDSgowjC6BYZQcjSGLYnOTLtLhDPArHzMvzZslJbdr8Nu3)
 
 ***ІD:*** UC_8.1
 
