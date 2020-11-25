@@ -53,7 +53,7 @@
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/ZL6rMGPH4CotYlqkfW6SKj08jmYN3DS8hU3ShONPZXZSuO-UZRtPeSMbaOMbvUafMSKTOjj2YmOr8iIeRNjLdjwb1zVmR1iP0GLtvqgCfzpNXBSeR4STd28ZqKD97B4gVFDHsYKAxWA-vegKWFPHoEcbv_tZZk0O5RpLPnz4JmwsYyOsKNsHPYucEz8lsWr2D2hlyhP3Wry-rOFJ9qhq6DJsbOY0IanNFWfnMtSfNyj7dvR7Y143ActoCdcD80Y-fkhjiAdRBvfFVVrOoDlFcOLYVpRQAy9vpSw934tCZ3yELHy0)
+![uml](http://www.plantuml.com/plantuml/png/ZL6rMOH158pFUdZVnJI0KmeQuHRXak4QeHMS_Ixxjp2l8-RX3idgsCuEBIwDB2mjJq_LogkuWwzRAE2GmuEFNBTNQ-L7HAtSWsiqTHiH8GbNvq9KKxZEuKXAT4VgE4L4QXCfSSHAhSpB5bAz9D2XpUjO419Hc5AzrtplRKcuZmpDrMShaw69xiBf9h9FwWp7U4VoITsX0qVJDmVTeSUFR-kXfB4yYwlxGaYROeoOcXQNUPVmDZMhWbkFCTkKskHXy9A2VktFoNh_szZj9zN863_qybe0yr3krsf_URNzwUoSpKCJC-Fy_0S0)
 
 ***ІD:*** UC_1.4
 
