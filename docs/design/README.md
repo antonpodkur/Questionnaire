@@ -8,3 +8,6 @@
 
 # ER-модель:
 ![uml](http://www.plantuml.com/plantuml/png/dL95TWGX4Dstt87NcxXjUnEtNVG0lAQ5aO87HJnt3wJ6VQPTlb5LPnQvGTVjf54QbO0IFzchBGtxJYFcDobo9W7f1NYtp1cM7xttiijb9wSRVT7SsdTbF4c_YsSq4chwOLHdZ9f6lmE_fz9g1SA_pNIrkYmaxyWlZb81YH1_e72fZ2aBF0VxFYTw88tw2uu-JxYEAzr3iQhMT8n7LzgGSJtMipDlvUUIWhEUYDAo66i1YAivItagjJAuMJN-Ho3RFja_sSaEn46sVHoUHZeLGCEt2UYkXuwr98t2tY_F0EtceAUH0ztn1f4o5N0QE-X7054rPe28JGdFIX2ks_a3)
+
+# DDL-схема:
+![alt text](https://github.com/antonpodkur/Questionnaire/blob/dev/docs/design/resources/1.png)
