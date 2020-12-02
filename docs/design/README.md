@@ -2,7 +2,7 @@
 
 *В рамках проекту розробляється модель бізнес-об'єктів, ER-модель та реляційна схема.*
 
-# Модель бізнес-об'єктів
+# Модель бізнес-об'єктів:
 
 ![uml](http://www.plantuml.com/plantuml/png/VLC5Zkmm31L3fDoXgk3_XQ4JB9DmyG1LOqcLYe6bomzwiYyUXlhv6VDowNnXVMXghRIYrbV-9_jmP1DZN9dKRek6KiHsjK2eAQewXVh2kQ_E6gZrIgxlMhEqza1G5r7NKraLTVLR-Afh8TbB8BU118298kRfsqFmJMSjbVwgTLzazwEO9d5mhhqkKtY2CazjYMw9orB21SKWvrkmd_GZJCp0YE_wgfHWF4l0g3MtQTklr7VM2nDBC8ABO2nkO9Cyo__FpcSd-QWUvV-dvwSdEPoReDWrPVaKwyVPif4PdSR9SS1i5C03KyeG73KDqefbduti4buP36to10HPwjce1XJKZlHuLn3Kwa_S6GyyCYDU0fEGmji9SO52kqUvEmB4-yRDugqyUF5sgLfjJpBMtT_Y4QBe3wZRxa0koLsMJgrOVnmNDGHIJHsWrzIXLT9-p9YWWWJvZz6Wcg1fXQl0iW978fRUIzs-BwareQaN)
 
