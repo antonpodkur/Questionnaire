@@ -25,3 +25,4 @@ const toTable =  (data, ...fields) => {
     console.log(toTable(respondentsList, "id", "specialization", "user_id"));
 })();
 
+

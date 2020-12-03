@@ -11,3 +11,4 @@ const chalk = require('chalk');
         process.exit(0);
     }
 })();
+

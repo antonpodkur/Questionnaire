@@ -8,7 +8,11 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/js/index.js",
+    "testApp": "node ./tests/app/index.js",
+    "testBuild": "node ./tests/build/index.js",
+    "testDb": "node ./tests/db/index.js",
+    "test": "node ./tests/**/*.js"
   },
   "repository": {
     "type": "git",
