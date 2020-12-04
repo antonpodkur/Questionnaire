@@ -14,9 +14,10 @@ const connection = mysql.connect({
     multipleStatements: true
 });
 
-connection.query(sqlScript, function (error) {
-    if (error) throw error;
-});
-
-process.exit(0);
-
+module.exports = {
+    run: () => {
+        connection.query(sqlScript, function (error) {
+            if (error) throw error;
+        });
+    }
+}

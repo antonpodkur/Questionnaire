@@ -12,7 +12,7 @@
     "testApp": "node ./tests/app/index.js",
     "testBuild": "node ./tests/build/index.js",
     "testDb": "node ./tests/db/index.js",
-    "test": "node ./tests/**/*.js"
+    "test": "node ./tests/index.js"
   },
   "repository": {
     "type": "git",

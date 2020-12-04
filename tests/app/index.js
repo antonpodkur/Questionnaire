@@ -15,14 +15,16 @@ const toTable =  (data, ...fields) => {
     return res.toString();
 };
 
-(async () => {
-    const usersList = await models.User.findAll();
-    console.log(chalk.green(`Users list`));
-    console.log(toTable(usersList, "id", "name", "email", "password", "role"));
-
-    const respondentsList = await models.Respondent.findAll();
-    console.log(chalk.green(`Respondents List`));
-    console.log(toTable(respondentsList, "id", "specialization", "user_id"));
-})();
+module.exports = {
+    run: (async () => {
+        const usersList = await models.User.findAll();
+        console.log(chalk.green(`Users list`));
+        console.log(toTable(usersList, "id", "name", "email", "password", "role"));
+    
+        const respondentsList = await models.Respondent.findAll();
+        console.log(chalk.green(`Respondents List`));
+        console.log(toTable(respondentsList, "id", "specialization", "user_id"));
+    })
+}
 
 
